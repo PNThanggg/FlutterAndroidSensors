@@ -1,4 +1,4 @@
-# device_temperature
+# Sensor Android
 
 A new Flutter project.
 
